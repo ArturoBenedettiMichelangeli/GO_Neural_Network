@@ -1,0 +1,11 @@
+###############
+Amélioration du ResNet avec modifications suivantes
+- mobile net ==> depthwiseConv plutôt que conv dans le bloc résiduel inversé ==> augmentation taille du bloc
+- foncton d'activation swish / silu dans le bloc résiduel
+
+Entrainé sur 600 époques 
+- training loss totale 2.2716
+- training policy accuracy 0.4363
+- validation loss totale : 2.2447 (2.0718 + 0.1176
+- validation policy accuracy 0.4430
+- validation value accuracy 0.2845

@@ -1,0 +1,12 @@
+###################
+Réseau ResNet avec Cosine Annealing et Attention (Rafael)
+
+entrainé sur ... époques
+
+Résultats
+- training total loss 2.4941
+- training policy accuracy 0.3890
+- training policy loss 0.1161
+- validation total loss 2.4549 (2.3360 + 0.1180)
+- validation policy accuracy 0.4013
+- validation value accuracy 0.2855

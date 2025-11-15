@@ -1,0 +1,10 @@
+Submission 1:
+- Premier réseau à retrouver (resnet classique) / réentrainer
+
+Submission 2:
+- ResNet avec Cosine Annealing
+
+Submission 3:
+- on laisse le resnet pour comparer les performances
+- MobileNet avec bloc résiduel plus long + swish activation fonction dans le bloc résiduel + cosine annealing (amélioration du resnet avec idées de https://www.lamsade.dauphine.fr/%7Ecazenave/papers/CosineAnnealingMixnetAndSwishActivationForComputerGo.pdf) 
+ ==> on ajoute le suffixe mobile à son nom
